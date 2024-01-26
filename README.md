@@ -3,7 +3,7 @@
 Welcome to the toy repo with an example of using SwiftStore to handle multiple root screens in the app powered by SCA.
 A very light app creates still a very laggy behavior.
 
-Everything that is important to handling these screeens in the `AppFeature` pagackage. (`AppVeiw` and `AppReducer`).
+Everything that is important to handling these screeens in the `AppFeature` package. (`AppVeiw` and `AppReducer`).
 
 ## Showcase of lagging behavior.
 
